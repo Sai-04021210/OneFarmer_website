@@ -1,0 +1,1878 @@
+Daten;Stationen;Meßpunkt;Messwert;Messung;Messeinheit
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);16;24;
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);3.1;m/s
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.99;m/s
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);786.796;W/m^2
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);231.807;°
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.261;hPa
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.306;V
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.186;A
+02-09-2025 13:14:22;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.544;V
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.101;°C
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);3.3;m/s
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);59.532;%
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.184;°C
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.219;°C
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);2.15;m/s
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);426.622;W/m^2
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);231.944;°
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);22.248;V
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.218;A
+02-09-2025 13:09:22;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.575;V
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);16;24;
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.589;°C
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);3.1;m/s
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);59.476;%
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.694;°C
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.67;°C
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.78;m/s
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);133.358;W/m^2
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);228.077;°
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.396;hPa
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);18.185;V
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.174;A
+02-09-2025 13:04:22;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.504;V
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.552;V
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.692;°C
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);4.2;m/s
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);58.543;%
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);20.09;°C
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.904;°C
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);2.24;m/s
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);267.253;W/m^2
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);226.336;°
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.864;V
+02-09-2025 12:59:21;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.194;A
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);59.192;%
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.71;°C
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.647;°C
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.693;m/s
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);925.295;W/m^2
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);226.037;°
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.443;hPa
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.664;V
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.183;A
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.523;V
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);16;24;
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.497;°C
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.7;m/s
+02-09-2025 12:54:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.741;°C
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.73;°C
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.22;m/s
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);400.381;W/m^2
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);224.568;°
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.38;V
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.17;A
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.515;V
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.636;°C
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2;m/s
+02-09-2025 12:49:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);59.62;%
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.53;V
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.176;A
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.525;V
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);16;24;
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.919;°C
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.9;m/s
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);61.145;%
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.629;°C
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.823;°C
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.443;m/s
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);567.27;W/m^2
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);225.134;°
+02-09-2025 12:44:21;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.459;hPa
+02-09-2025 12:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.27;°C
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.3;m/s
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);62.545;%
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.626;°C
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.998;°C
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.03;m/s
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);298.712;W/m^2
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);222.352;°
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.812;V
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.234;A
+02-09-2025 12:39:20;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.632;V
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);16;24;
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.104;°C
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.9;m/s
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);61.581;%
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);19.711;°C
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.953;°C
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.047;m/s
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);645.535;W/m^2
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);223.422;°
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.433;hPa
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.703;V
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.186;A
+02-09-2025 12:34:20;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.546;V
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.9;m/s
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.287;m/s
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);560.441;W/m^2
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);220.506;°
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);17.8;V
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.152;A
+02-09-2025 12:29:20;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.499;V
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);16;23;
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.594;°C
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.8;m/s
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);66.787;%
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.929;°C
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.889;°C
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.913;m/s
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);702.699;W/m^2
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);219.217;°
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.646;hPa
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.373;V
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.179;A
+02-09-2025 12:24:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.531;V
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);67.13;%
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.437;°C
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.478;°C
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.3;m/s
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);492.304;W/m^2
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);220.829;°
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);22.07;V
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.217;A
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.574;V
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.213;°C
+02-09-2025 12:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.2;m/s
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);16;22;
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.26;°C
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.7;m/s
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);67.536;%
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.399;°C
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.491;°C
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.88;m/s
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);244.387;W/m^2
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);218.2;°
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.726;hPa
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.859;V
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.302;A
+02-09-2025 12:14:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);14.167;V
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.265;°C
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.2;m/s
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);67.668;%
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.36;°C
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.472;°C
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.09;m/s
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);222.749;W/m^2
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);217.882;°
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.761;V
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.261;A
+02-09-2025 12:09:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.504;V
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.557;V
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.047;A
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.036;V
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);11.991;°C
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);66.279;%
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.389;°C
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.33;°C
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.267;m/s
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);202.032;W/m^2
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);217.795;°
+02-09-2025 12:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.873;hPa
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.046;°C
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);3.1;m/s
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);65.615;%
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.633;°C
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.473;°C
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.54;m/s
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);221.828;W/m^2
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);217.025;°
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.723;V
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.049;A
+02-09-2025 11:59:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.071;V
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);16;22;
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.6;m/s
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.753;°C
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.37;m/s
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);260.808;W/m^2
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);211.373;°
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.791;hPa
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.668;V
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.049;A
+02-09-2025 11:54:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.121;V
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.202;°C
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);66.854;%
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.493;°C
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.496;°C
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.677;m/s
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);382.349;W/m^2
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);198.643;°
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.385;V
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.048;A
+02-09-2025 11:49:17;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.19;V
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.782;°C
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);71.535;%
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.024;°C
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.624;°C
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.74;m/s
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);271.32;W/m^2
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);223.815;°
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.417;V
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.207;A
+02-09-2025 11:39:20;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.575;V
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);16;22;
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.7;m/s
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.326;m/s
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);188.45;W/m^2
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);227.083;°
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.767;hPa
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);18.009;V
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.194;A
+02-09-2025 11:34:20;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.542;V
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);217.225;W/m^2
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);230.337;°
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.066;V
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.193;A
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.595;°C
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.578;V
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.9;m/s
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);69.752;%
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);18.227;°C
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.6;°C
+02-09-2025 11:29:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.233;m/s
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.804;hPa
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.819;V
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.184;A
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.559;V
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);16;22;
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.1;m/s
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.163;m/s
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);267.867;W/m^2
+02-09-2025 11:24:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);229.846;°
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.269;°C
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.303;m/s
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);345.825;W/m^2
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);232.193;°
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.267;V
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.166;A
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.536;V
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.345;°C
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.2;m/s
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);70.783;%
+02-09-2025 11:19:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.74;°C
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.478;°C
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);72.018;%
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.617;°C
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.3;°C
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.493;m/s
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);233.338;W/m^2
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);231.066;°
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.929;hPa
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.835;V
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.3;A
+02-09-2025 11:14:19;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.839;V
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.2;m/s
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.377;m/s
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);203.413;W/m^2
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);232.379;°
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.839;V
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.216;A
+02-09-2025 11:09:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.564;V
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.732;°C
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.8;m/s
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);73.673;%
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.49;°C
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.376;°C
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.613;m/s
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);185.918;W/m^2
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);233.583;°
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);997.069;hPa
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.641;V
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.191;A
+02-09-2025 11:04:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.474;V
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.573;°C
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);72.169;%
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.659;°C
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.357;°C
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.587;m/s
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);142.489;W/m^2
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);232.762;°
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.859;V
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.105;A
+02-09-2025 10:59:18;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.365;V
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.826;°C
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.8;m/s
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);73.021;%
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.759;°C
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.552;°C
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.627;m/s
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);133.895;W/m^2
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);234.376;°
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.896;hPa
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.792;V
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.078;A
+02-09-2025 10:54:17;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.392;V
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.6;°C
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.3;m/s
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);72.175;%
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.69;°C
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.387;°C
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.167;m/s
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);204.487;W/m^2
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);232.017;°
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.782;V
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.201;A
+02-09-2025 10:49:17;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.512;V
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.9;m/s
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.927;m/s
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);244.924;W/m^2
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);234.797;°
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.859;hPa
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.754;V
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.282;A
+02-09-2025 10:44:17;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.613;V
+02-09-2025 10:43:59;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.291;°C
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.387;m/s
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);214.692;W/m^2
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);234.519;°
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.785;V
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.24;A
+02-09-2025 10:39:16;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.412;V
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.23;°C
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.573;m/s
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);139.803;W/m^2
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);234.833;°
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.923;hPa
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);18.624;V
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.087;A
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.097;V
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.625;°C
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.4;m/s
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);73.792;%
+02-09-2025 10:34:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.32;°C
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.877;°C
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);3.6;m/s
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);73.57;%
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.663;°C
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.527;°C
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.4;m/s
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);121.925;W/m^2
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);235.446;°
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.233;V
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.048;A
+02-09-2025 10:29:16;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.064;V
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);12.94;°C
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.8;m/s
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);72.909;%
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.861;°C
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.635;°C
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.847;m/s
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);108.804;W/m^2
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);234.205;°
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.77;hPa
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.802;V
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.051;A
+02-09-2025 10:24:16;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.147;V
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.268;°C
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.9;m/s
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);76.461;%
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.756;°C
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.957;°C
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.093;m/s
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);189.985;W/m^2
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);233.268;°
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.371;V
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.043;A
+02-09-2025 10:19:15;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.264;V
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.957;m/s
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);604.714;W/m^2
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);233.01;°
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.666;hPa
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);21.758;V
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.311;A
+02-09-2025 10:14:15;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.554;V
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.8;m/s
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.03;V
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.051;A
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.419;V
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);232.201;°
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);117.782;W/m^2
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.213;°C
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.045;%
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.079;°C
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.498;°C
+02-09-2025 10:09:15;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.987;m/s
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.465;°C
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.8;m/s
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.236;%
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.299;°C
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.73;°C
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.257;m/s
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);111.72;W/m^2
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);230.48;°
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.503;hPa
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.288;V
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.054;A
+02-09-2025 10:04:14;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.078;V
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);112.717;W/m^2
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);225.712;°
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);19.85;V
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.045;A
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.199;V
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.687;°C
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.9;m/s
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);79.078;%
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.366;°C
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.893;°C
+02-09-2025 09:59:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.353;m/s
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.493;°C
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.8;m/s
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.238;%
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.324;°C
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.755;°C
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.193;m/s
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);172.26;W/m^2
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);221.667;°
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.476;hPa
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.852;V
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.185;A
+02-09-2025 09:54:14;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.293;V
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.513;°C
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.24;%
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.356;°C
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.785;°C
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.853;m/s
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);113.331;W/m^2
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);218.556;°
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.777;V
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.073;A
+02-09-2025 09:49:13;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.07;V
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.316;°C
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.8;m/s
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);77.001;%
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.399;°C
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.681;°C
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.007;m/s
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);143.87;W/m^2
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);215.336;°
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.32;hPa
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.041;V
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.048;A
+02-09-2025 09:44:13;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.057;V
+02-09-2025 09:43:59;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.545;°C
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2;m/s
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);77.588;%
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.514;°C
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.86;°C
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.937;m/s
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);184.307;W/m^2
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);211.088;°
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.528;V
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.049;A
+02-09-2025 09:39:13;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.122;V
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2;m/s
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.446;°C
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);1.047;m/s
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);138.729;W/m^2
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);208.125;°
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.143;hPa
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);20.229;V
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.049;A
+02-09-2025 09:34:13;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.228;V
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.16;A
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.399;V
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.662;°C
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2;m/s
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.272;%
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.496;°C
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.923;°C
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.903;m/s
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);162.669;W/m^2
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);208.584;°
+02-09-2025 09:29:12;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.91;V
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);78.445;%
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.656;°C
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.096;°C
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.457;m/s
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);116.017;W/m^2
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.513;°
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.107;hPa
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.745;V
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.087;A
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.311;V
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.867;°C
+02-09-2025 09:24:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.055;°C
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.335;V
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);79.697;%
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.613;°C
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.203;°C
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.06;m/s
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);100.364;W/m^2
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);151.581;°
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.849;V
+02-09-2025 09:19:12;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.051;A
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);16;21;
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.933;°C
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);79.673;%
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.501;°C
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.093;°C
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.157;m/s
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);166.045;W/m^2
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);147.189;°
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);996.016;hPa
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.959;V
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.172;A
+02-09-2025 09:14:12;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.445;V
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.343;m/s
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);163.129;W/m^2
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);141.333;°
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.889;V
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.151;A
+02-09-2025 09:09:11;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.413;V
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.834;V
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.12;A
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.401;V
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.186;°C
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);81.73;%
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.351;°C
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.191;°C
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.187;m/s
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);159.753;W/m^2
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);134.964;°
+02-09-2025 09:04:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.907;hPa
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.132;°C
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.7;m/s
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);81.72;%
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.304;°C
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.144;°C
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.4;m/s
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);147.323;W/m^2
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);128.441;°
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.763;V
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.12;A
+02-09-2025 08:59:11;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.35;V
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.778;V
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.146;A
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.392;V
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.301;°C
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.1;m/s
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);81.888;%
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.424;°C
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.279;°C
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.913;m/s
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);158.449;W/m^2
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);121.647;°
+02-09-2025 08:54:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.903;hPa
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.404;°C
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.7;m/s
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);82.978;%
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.384;°C
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.369;°C
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.563;m/s
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);153.385;W/m^2
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);116.522;°
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.831;V
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.191;A
+02-09-2025 08:49:10;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.406;V
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);16;20;
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.9;m/s
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.229;°C
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.787;m/s
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);109.648;W/m^2
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);112.845;°
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.81;hPa
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.782;V
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.19;A
+02-09-2025 08:44:10;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.277;V
+02-09-2025 08:43:59;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.214;°C
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.7;m/s
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);83.472;%
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);17.053;°C
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.106;°C
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.723;m/s
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);124.304;W/m^2
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);111.17;°
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.68;V
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.211;A
+02-09-2025 08:39:09;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.252;V
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);16;19;
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.339;°C
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);85.108;%
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.869;°C
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.117;°C
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.59;m/s
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);134.586;W/m^2
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);109.627;°
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.756;hPa
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.818;V
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.147;A
+02-09-2025 08:34:09;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.112;V
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);84.376;%
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.711;°C
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.879;°C
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.88;m/s
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);122.616;W/m^2
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);109.655;°
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.693;V
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.107;A
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);13.019;V
+02-09-2025 08:29:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.047;°C
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.507;°C
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.708;°C
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.627;m/s
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);128.908;W/m^2
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);107.677;°
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.71;hPa
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.854;V
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.11;A
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.951;V
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);16;18;
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.897;°C
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:24:09;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);84.608;%
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.608;V
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.051;A
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.833;V
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.679;°C
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);84.025;%
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.391;°C
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.528;°C
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.239;m/s
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);74.275;W/m^2
+02-09-2025 08:19:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);107.015;°
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);16;17;
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.535;°C
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);84.127;%
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.231;°C
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.385;°C
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.133;m/s
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);56.857;W/m^2
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);107.063;°
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.726;hPa
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.817;V
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.011;A
+02-09-2025 08:14:08;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.784;V
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.857;m/s
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);61.231;W/m^2
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);112.015;°
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.641;V
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Power (20);Strom (3);0.001;A
+02-09-2025 08:09:08;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.742;V
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);85.876;%
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.379;°C
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.58;m/s
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);22.866;W/m^2
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);117.523;°
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.704;hPa
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.159;V
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.052;A
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.695;V
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.641;°C
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 08:04:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.02;°C
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.739;°C
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.1;m/s
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);86.567;%
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.99;°C
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.428;°C
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.57;m/s
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);19.183;W/m^2
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);123.225;°
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.174;V
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.061;A
+02-09-2025 07:59:07;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.702;V
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.716;°C
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.1;m/s
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);86.428;%
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.993;°C
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);126.26;°
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.721;hPa
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.128;V
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.068;A
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.684;V
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.415;°C
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.74;m/s
+02-09-2025 07:54:07;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);18.262;W/m^2
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.79;°C
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);2.2;m/s
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);87.507;%
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.87;°C
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.418;°C
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.88;m/s
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);18.185;W/m^2
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);129.524;°
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.141;V
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.063;A
+02-09-2025 07:49:06;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.674;V
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.34;m/s
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);27.546;W/m^2
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);135.814;°
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.69;hPa
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);14.563;V
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.058;A
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.687;V
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.005;°C
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.8;m/s
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.011;%
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.819;°C
+02-09-2025 07:44:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.539;°C
+02-09-2025 07:43:59;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.981;°C
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.673;%
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.687;°C
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.485;°C
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.183;m/s
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);28.39;W/m^2
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);142.177;°
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);15.86;V
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.054;A
+02-09-2025 07:39:06;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.693;V
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.984;°C
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.943;%
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.633;°C
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.463;°C
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.733;m/s
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);28.39;W/m^2
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);208.89;°
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.523;hPa
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);14.17;V
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.046;A
+02-09-2025 07:34:06;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.686;V
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.01;°C
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.815;%
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.689;°C
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.503;°C
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.037;m/s
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);23.249;W/m^2
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);202.274;°
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.822;V
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.052;A
+02-09-2025 07:29:05;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.684;V
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.664;V
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.955;°C
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.4;%
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.706;°C
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.473;°C
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.087;m/s
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);16.651;W/m^2
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);203.413;°
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.557;hPa
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.116;V
+02-09-2025 07:24:05;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.067;A
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.834;°C
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);89.238;%
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.613;°C
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.363;°C
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.453;m/s
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);17.034;W/m^2
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);204.474;°
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.094;V
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.065;A
+02-09-2025 07:19:05;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.665;V
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.932;°C
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.1;m/s
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);90.198;%
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.539;°C
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.399;°C
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.013;m/s
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);16.957;W/m^2
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);203.173;°
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.48;hPa
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.081;V
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.069;A
+02-09-2025 07:14:05;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.665;V
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.886;°C
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);91.643;%
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.254;°C
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.282;°C
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.377;m/s
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);16.113;W/m^2
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);204.44;°
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);13.023;V
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.07;A
+02-09-2025 07:09:04;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.657;V
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.681;V
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);16;14;
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.4;m/s
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.29;m/s
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.502;W/m^2
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.369;°
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.313;hPa
+02-09-2025 07:04:04;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);12.94;V
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.671;V
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.796;°C
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);95.187;%
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.591;°C
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.023;°C
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.243;m/s
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);12.737;W/m^2
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.962;°
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);11.733;V
+02-09-2025 06:59:04;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.026;°C
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.709;°
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.124;hPa
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);11.79;V
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.667;V
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);16;14;
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.874;°C
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.129;%
+02-09-2025 06:54:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.489;°C
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.128;%
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.481;°C
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.018;°C
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);16.267;W/m^2
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.614;°
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);9.933;V
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.676;V
+02-09-2025 06:49:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.867;°C
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.65;V
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.082;A
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);7.498;V
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.151;hPa
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);205.494;°
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.656;W/m^2
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.01;m/s
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);13.945;°C
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.44;°C
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);95.842;%
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.1;m/s
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.781;°C
+02-09-2025 06:44:03;Weincampus Neustadt 1 (1423);Hauptstation (17);16;14;
+02-09-2025 06:43:59;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);206.329;°
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);5.15;V
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.669;V
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);13.933;°C
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.8;m/s
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.146;%
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.549;°C
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.087;°C
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.133;m/s
+02-09-2025 06:39:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.111;hPa
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.249;°C
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);3.011;V
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.651;V
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);16;14;
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.094;°C
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.189;%
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.706;°C
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.15;m/s
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.888;W/m^2
+02-09-2025 06:34:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);206.318;°
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.118;W/m^2
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);208.262;°
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);1.586;V
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.662;V
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.187;°C
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.2;m/s
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.211;%
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);14.787;°C
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.333;°C
+02-09-2025 06:29:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.017;m/s
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.3;m/s
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.027;m/s
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.042;W/m^2
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);211.054;°
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.224;hPa
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0.887;V
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 06:24:02;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.673;V
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.197;°C
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);94.629;%
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.033;°C
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.4;°C
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);211.81;°
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0.601;V
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 06:19:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.678;V
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.685;V
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.344;°C
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);94.399;%
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.246;°C
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.585;°C
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.425;W/m^2
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);212.77;°
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.053;hPa
+02-09-2025 06:14:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0.454;V
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.457;°C
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.3;m/s
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);94.427;%
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.353;°C
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.695;°C
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.03;m/s
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);214.083;°
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.079;A
+02-09-2025 06:09:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.676;V
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.09;m/s
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.735;W/m^2
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);215.967;°
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.981;hPa
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0.072;V
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.68;V
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 06:04:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.685;V
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);218.916;°
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.5;W/m^2
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.363;m/s
+02-09-2025 05:59:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.1;m/s
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);93.535;%
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.629;°C
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.868;°C
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.143;m/s
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.962;W/m^2
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);219.746;°
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.024;hPa
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.078;A
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.681;V
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.582;°C
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 05:54:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.661;°C
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);94.35;%
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.58;°C
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.912;°C
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.593;m/s
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.658;W/m^2
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);233.846;°
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.073;A
+02-09-2025 05:49:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.668;V
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);97.347;°
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.673;V
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.689;°C
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);95.421;%
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.421;°C
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.877;°C
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.19;m/s
+02-09-2025 05:39:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.581;W/m^2
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.693;V
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.683;°C
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);95.419;%
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.416;°C
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.871;°C
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.158;m/s
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);91.074;°
+02-09-2025 05:34:01;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.94;hPa
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.8;m/s
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.449;°C
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.097;m/s
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);95.294;°
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 05:29:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.681;V
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.744;°C
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.674;V
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);95.436;%
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.477;°C
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.934;°C
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.658;W/m^2
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);98.439;°
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.913;hPa
+02-09-2025 05:24:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.337;m/s
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.193;W/m^2
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);101.604;°
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 05:19:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.688;V
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.812;W/m^2
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);253.65;°
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.806;hPa
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.078;A
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.67;V
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.712;°C
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.351;%
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.299;°C
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.86;°C
+02-09-2025 05:14:00;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.293;m/s
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.151;°C
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.708;°C
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.24;m/s
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.732;W/m^2
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);247.564;°
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.667;V
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.566;°C
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.4;m/s
+02-09-2025 05:08:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.311;%
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.318;%
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.177;°C
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.735;°C
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.033;m/s
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);239.272;°
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.784;hPa
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.679;V
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.591;°C
+02-09-2025 05:03:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.127;m/s
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.732;W/m^2
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);229.537;°
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 04:58:59;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.681;V
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.536;°C
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.6;m/s
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.304;%
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.129;°C
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.685;°C
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.307;m/s
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.118;W/m^2
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);218.011;°
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.829;hPa
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 04:53:59;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.689;V
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.673;V
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.416;°C
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.274;%
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.017;°C
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.57;°C
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.433;m/s
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.193;W/m^2
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);210.629;°
+02-09-2025 04:48:58;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.447;°C
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.283;%
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.049;°C
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.602;°C
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.213;m/s
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.576;W/m^2
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);207.409;°
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.917;hPa
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.08;A
+02-09-2025 04:43:58;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.675;V
+02-09-2025 04:43:41;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.427;°C
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.277;%
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.029;°C
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.582;°C
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.19;m/s
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.195;W/m^2
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);202.427;°
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 04:38:58;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.67;V
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.037;m/s
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.116;W/m^2
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);198.32;°
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.94;hPa
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.692;V
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.471;°C
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.3;m/s
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.289;%
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.073;°C
+02-09-2025 04:33:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.627;°C
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.56;°C
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.31;%
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.149;°C
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.705;°C
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.053;m/s
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.962;W/m^2
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);198.063;°
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 04:28:57;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.689;V
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.591;°C
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.4;m/s
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.318;%
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.177;°C
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.735;°C
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.553;m/s
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.812;W/m^2
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);149.783;°
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.067;hPa
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 04:23:57;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.678;V
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.571;°C
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.312;%
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.157;°C
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.714;°C
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.36;m/s
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);143.779;°
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 04:18:56;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.67;V
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.181;°C
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.739;°C
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.118;W/m^2
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);140.734;°
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.157;hPa
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.685;V
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.595;°C
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:13:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.319;%
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.2;m/s
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.017;m/s
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.425;W/m^2
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);139.653;°
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.078;A
+02-09-2025 04:08:56;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.678;V
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.33;°C
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.892;°C
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.627;m/s
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.423;W/m^2
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);134.647;°
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);995.073;hPa
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.743;°C
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.684;V
+02-09-2025 04:03:56;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.36;%
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.797;°C
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.374;%
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.384;°C
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);14.948;°C
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.433;m/s
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.581;W/m^2
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);129.366;°
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 03:58:55;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.68;V
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.874;°C
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.394;%
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.454;°C
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.02;°C
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.143;m/s
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.735;W/m^2
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);126.721;°
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.92;hPa
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 03:53:55;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.675;V
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);124.681;°
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.079;A
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.679;V
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);14.976;°C
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.419;%
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.547;°C
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.116;°C
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.44;m/s
+02-09-2025 03:48:55;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.042;W/m^2
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.052;°C
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.44;%
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.624;°C
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.196;°C
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.437;m/s
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.193;W/m^2
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);123.376;°
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.91;hPa
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.081;A
+02-09-2025 03:43:54;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.668;V
+02-09-2025 03:43:41;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.444;%
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.637;°C
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.209;°C
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.587;m/s
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.656;W/m^2
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);124.101;°
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.692;V
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.065;°C
+02-09-2025 03:38:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.884;hPa
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.686;V
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.452;%
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.667;°C
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.24;°C
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.117;m/s
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.502;W/m^2
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);124.527;°
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.095;°C
+02-09-2025 03:33:54;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.161;°C
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.47;%
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.733;°C
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.308;°C
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.317;m/s
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.116;W/m^2
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);125.378;°
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.079;A
+02-09-2025 03:28:53;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.66;V
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.258;°C
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.496;%
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.829;°C
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.406;°C
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.257;m/s
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.658;W/m^2
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);124.522;°
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.771;hPa
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 03:23:53;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.701;V
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.307;°C
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.506;%
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.866;°C
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.445;°C
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.603;m/s
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.423;W/m^2
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);128.012;°
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 03:18:53;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.698;V
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.519;%
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.911;°C
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.492;°C
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.467;m/s
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.044;W/m^2
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);129.811;°
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.79;hPa
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.073;A
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.69;V
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.354;°C
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.8;m/s
+02-09-2025 03:13:53;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.722;V
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.376;°C
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.524;%
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.933;°C
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.514;°C
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.277;m/s
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.042;W/m^2
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);128.734;°
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:08:52;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.753;m/s
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.812;W/m^2
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);129.042;°
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.734;hPa
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 03:03:52;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.702;V
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.067;°C
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.7;m/s
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.444;%
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.639;°C
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.21;°C
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.683;m/s
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);228.487;°
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 02:58:52;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.702;V
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.024;°C
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.432;%
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.596;°C
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.166;°C
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.52;m/s
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);226.608;°
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.676;hPa
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.073;A
+02-09-2025 02:53:52;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.685;V
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.008;°C
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.428;%
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.58;°C
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.15;°C
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.387;m/s
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);224.308;°
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 02:48:51;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.69;V
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.357;m/s
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.658;W/m^2
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);222.636;°
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.677;hPa
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.707;V
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.007;°C
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.428;%
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.579;°C
+02-09-2025 02:43:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.149;°C
+02-09-2025 02:43:41;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.06;°C
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.5;m/s
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.442;%
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.631;°C
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.203;°C
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.183;m/s
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.888;W/m^2
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);218.071;°
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 02:38:51;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.723;V
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.703;°C
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.277;°C
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.313;m/s
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.962;W/m^2
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);216.029;°
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.676;hPa
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.078;A
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.727;V
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.131;°C
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 02:33:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.462;%
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.172;°C
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.473;%
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.744;°C
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.319;°C
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.133;m/s
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.502;W/m^2
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);212.373;°
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 02:28:50;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.728;V
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.175;°C
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.3;m/s
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.474;%
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.747;°C
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.322;°C
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.667;m/s
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.886;W/m^2
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);206.87;°
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.84;hPa
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 02:23:50;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.738;V
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.349;°C
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.303;m/s
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.759;V
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.2;°C
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.1;m/s
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.481;%
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.773;°C
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.042;W/m^2
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);159.365;°
+02-09-2025 02:18:49;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.8;m/s
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.492;%
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.813;°C
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.39;°C
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.073;m/s
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.118;W/m^2
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);170.557;°
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.801;hPa
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.75;V
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 02:13:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.24;°C
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.846;°C
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.424;°C
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.053;m/s
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.502;W/m^2
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);171.734;°
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.749;V
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.282;°C
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 02:08:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.501;%
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.057;m/s
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.658;W/m^2
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);171.262;°
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.659;hPa
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.736;V
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 02:03:49;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.299;°C
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.503;%
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.856;°C
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.434;°C
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.195;W/m^2
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);170.804;°
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 01:58:48;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.754;V
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.16;m/s
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.965;W/m^2
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);170.321;°
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.631;hPa
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.755;V
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.1;m/s
+02-09-2025 01:53:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.207;°C
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.483;%
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.78;°C
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.356;°C
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.033;m/s
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.505;W/m^2
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);169.92;°
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 01:48:48;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.779;V
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.812;W/m^2
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);169.581;°
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.197;°C
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.644;hPa
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.741;V
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.48;%
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.77;°C
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.346;°C
+02-09-2025 01:43:48;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.043;m/s
+02-09-2025 01:43:41;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.156;°C
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.2;m/s
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.469;%
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.729;°C
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.303;°C
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.283;m/s
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);169.252;°
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 01:38:47;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.768;V
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.7;m/s
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.145;°C
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);16;15;
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.465;%
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.291;°C
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.32;m/s
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.656;W/m^2
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);169.046;°
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.717;°C
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.577;hPa
+02-09-2025 01:33:47;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.775;V
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.078;A
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.783;V
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.118;°C
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.458;%
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.69;°C
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.263;°C
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.12;m/s
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.965;W/m^2
+02-09-2025 01:28:47;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.968;°
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.779;V
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.155;°C
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.3;m/s
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.468;%
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.727;°C
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.302;°C
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.02;m/s
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.888;W/m^2
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.899;°
+02-09-2025 01:23:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.604;hPa
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.233;°C
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.49;%
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.806;°C
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.383;°C
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.73;W/m^2
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.841;°
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 01:18:46;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.762;V
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.346;W/m^2
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);164.432;°
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.741;hPa
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.774;V
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.292;°C
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.503;%
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.853;°C
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.431;°C
+02-09-2025 01:13:46;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.04;m/s
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.404;°C
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.532;%
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);15.961;°C
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.543;°C
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.157;m/s
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.351;W/m^2
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);154.521;°
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 01:08:45;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.792;V
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.48;°C
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.553;%
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.037;°C
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.621;°C
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.257;m/s
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.579;W/m^2
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);147.369;°
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.771;hPa
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 01:03:45;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.79;V
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.552;°C
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.1;m/s
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.573;%
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.11;°C
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.697;°C
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.003;m/s
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.195;W/m^2
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);144.076;°
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 00:58:45;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.783;V
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.593;°C
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.4;m/s
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.584;%
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.151;°C
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.739;°C
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.12;m/s
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.812;W/m^2
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);144.051;°
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.786;hPa
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.073;A
+02-09-2025 00:53:45;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.784;V
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.602;°C
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.587;%
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.16;°C
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.748;°C
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.137;m/s
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);144.024;°
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 00:48:44;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.798;V
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.619;°C
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.5;m/s
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.591;%
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.177;°C
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.766;°C
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.06;m/s
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.349;W/m^2
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);143.999;°
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.836;hPa
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.086;A
+02-09-2025 00:43:44;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.809;V
+02-09-2025 00:43:40;Weincampus Neustadt 1 (1423);Hauptstation (17);0;11250;
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.32;m/s
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.965;W/m^2
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);143.994;°
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.613;°C
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1.1;m/s
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.59;%
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.171;°C
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.798;V
+02-09-2025 00:38:44;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.76;°C
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);144.018;°
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.884;hPa
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.075;A
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.819;V
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.582;°C
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);1;m/s
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.581;%
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.14;°C
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.727;°C
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.19;m/s
+02-09-2025 00:33:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.5;W/m^2
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.127;m/s
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.272;W/m^2
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);149.156;°
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.073;A
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.814;V
+02-09-2025 00:28:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.552;°C
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.9;m/s
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.573;%
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.11;°C
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.697;°C
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.32;m/s
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.346;W/m^2
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);156.255;°
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.943;hPa
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 00:23:43;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.83;V
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.497;°C
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0.6;m/s
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.558;%
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.054;°C
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.639;°C
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0.083;m/s
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.425;W/m^2
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.293;°
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.072;A
+02-09-2025 00:18:42;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.805;V
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.817;V
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);15.116;W/m^2
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.63;°C
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.281;°
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.947;hPa
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.077;A
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.488;°C
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.046;°C
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.555;%
+02-09-2025 00:13:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.485;°C
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.554;%
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.043;°C
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.627;°C
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);13.735;W/m^2
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.266;°
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.074;A
+02-09-2025 00:08:42;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.809;V
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);16;16;
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Taupunkt (15);15.468;°C
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windböen (14);0;m/s
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Regen (11);0;mm
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Luftfeuchtigkeit (10);96.55;%
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Lufttemperatur (9);16.026;°C
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Bulbo umido (40);15.61;°C
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Windgeschwindigkeit (8);0;m/s
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Sonnenstrahlung (7);14.195;W/m^2
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Wind (3);168.286;°
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Hauptstation (17);Atmosphärischer Druck (2);994.96;hPa
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Power (20);Solarzelle (4);0;V
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Power (20);Strom (3);-0.076;A
+02-09-2025 00:03:42;Weincampus Neustadt 1 (1423);Power (20);Batterie 12V (2);12.83;V

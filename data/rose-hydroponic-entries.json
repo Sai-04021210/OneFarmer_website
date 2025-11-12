@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-09-25T01:50:00.000Z",
+    "ph": 6.7,
+    "ec": 1.4,
+    "waterTemp": 22,
+    "waterQuality": null,
+    "notes": "Manual entry"
+  },
+  {
+    "timestamp": "2025-09-30T17:23:00.000Z",
+    "ph": 6.5,
+    "ec": 1.6,
+    "waterTemp": 22,
+    "waterQuality": null,
+    "notes": "just changed the water which we prepared on the initial day I guess, at 25th Sep 2025."
+  }
+]

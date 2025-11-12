@@ -1,0 +1,134 @@
+{
+  "Version": "1.0",
+  "OrgId": 287687,
+  "ClientId": "d7af240c-1f5d-49b1-a2a2-1c64c81c4e4e",
+  "ClientName": "Lohnbetrieb Roland",
+  "FarmId": "aff4d91d-7e78-4443-b8cc-a7c1cd5eb61a",
+  "FarmName": "Lehr und Versuchsans",
+  "FieldId": "5313da49-e99c-4ffe-9434-3c83d8baa4b8",
+  "FieldName": "Kleiner Kirschgarten 0005",
+  "FieldOperationId": "74833871-bca1-41fe-868d-0302206eeb2f",
+  "Operation": "Harvest",
+  "CropSeason": 2023,
+  "CropId": 32,
+  "CropToken": "BARLEY_EURO_WTR",
+  "CropName": "Barley (Europe Winter)",
+  "Work": {
+    "WorkPlanId": "00000000-0000-0000-0000-000000000000",
+    "WorkOrder": ""
+  },
+  "Product": {
+    "ProductId": "64b7afa1-0000-1000-68e0-e1e1e12c6ec8",
+    "ProductName": "Avantasia",
+    "BrandName": "Hauptsaaten",
+    "TankMix": false,
+    "ProductUseHash": "a43a4766"
+  },
+  "FieldOperationStartDate": "2023-07-19T09:47:40.200Z",
+  "FileCreatedTimeStamp": "2025-08-19T12:35:51.1931653Z",
+  "DataAttributes": [
+    {
+      "Name": "DISTANCE",
+      "Unit": "m",
+      "Description": "Distance Travelled From Previous Point"
+    },
+    {
+      "Name": "SWATHWIDTH",
+      "Unit": "m",
+      "Description": "Width Of Element"
+    },
+    {
+      "Name": "VRYIELDMAS",
+      "Unit": "t1ha-1",
+      "Description": "Yield as Mass"
+    },
+    {
+      "Name": "SECTIONID",
+      "Description": "Element Id"
+    },
+    {
+      "Name": "Crop",
+      "Description": "CropId"
+    },
+    {
+      "Name": "WetMass",
+      "Unit": "t1ha-1",
+      "Description": "Wet Mass"
+    },
+    {
+      "Name": "Moisture",
+      "Unit": "prcnt",
+      "Description": "Moisture"
+    },
+    {
+      "Name": "Time",
+      "Description": "Timestamp"
+    },
+    {
+      "Name": "Heading",
+      "Description": "Machine Heading"
+    },
+    {
+      "Name": "VARIETY",
+      "Description": "Variety Name"
+    },
+    {
+      "Name": "Elevation",
+      "Unit": "m",
+      "Description": "Elevation"
+    },
+    {
+      "Name": "IsoTime",
+      "Description": "Precise Timestamp"
+    },
+    {
+      "Name": "Machine",
+      "Description": "Index into the MachineUsage map, or 0 if no information exists"
+    },
+    {
+      "Name": "FUEL",
+      "Unit": "l",
+      "Description": "Fuel"
+    },
+    {
+      "Name": "VEHICLSPEED",
+      "Unit": "km1hr-1",
+      "Description": "Vehicle Speed"
+    },
+    {
+      "Name": "DRYMATTER",
+      "Unit": "prcnt",
+      "Description": "Dry Matter"
+    },
+    {
+      "Name": "PRODUCTHASH",
+      "Description": "ProductUseHash"
+    }
+  ],
+  "MachineUsage": {
+    "1": {
+      "MachineId": "e09e5aca-896f-46de-a547-1467659b6505",
+      "MachineName": "John Deere T 670",
+      "MachineSerial": ""
+    }
+  },
+  "Implements": [
+    {
+      "ImplementId": "3bf72fa8-3ef7-4a8c-87bd-38fcf6f1f344",
+      "ImplementSerialNumber": "",
+      "ImplementWidth": {
+        "Value": 7.4,
+        "Unit": "m"
+      }
+    }
+  ],
+  "Products": [
+    {
+      "ProductId": "64b7afa1-0000-1000-68e0-e1e1e12c6ec8",
+      "ProductName": "Avantasia",
+      "BrandName": "Hauptsaaten",
+      "TankMix": false,
+      "ProductUseHash": "a43a4766"
+    }
+  ]
+}

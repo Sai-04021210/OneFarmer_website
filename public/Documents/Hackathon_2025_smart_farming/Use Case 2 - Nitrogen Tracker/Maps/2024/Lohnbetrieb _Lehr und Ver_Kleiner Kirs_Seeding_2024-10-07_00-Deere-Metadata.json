@@ -1,0 +1,130 @@
+{
+  "Version": "1.0",
+  "OrgId": 287687,
+  "ClientId": "d7af240c-1f5d-49b1-a2a2-1c64c81c4e4e",
+  "ClientName": "Lohnbetrieb Roland",
+  "FarmId": "aff4d91d-7e78-4443-b8cc-a7c1cd5eb61a",
+  "FarmName": "Lehr und Versuchsans",
+  "FieldId": "5313da49-e99c-4ffe-9434-3c83d8baa4b8",
+  "FieldName": "Kleiner Kirschgarten 0005",
+  "FieldOperationId": "472fb849-2071-4d26-855d-c83829e96584",
+  "Operation": "Seeding",
+  "CropSeason": 2025,
+  "CropId": 19,
+  "CropToken": "RYE",
+  "CropName": "Rye",
+  "Work": {
+    "WorkPlanId": "00000000-0000-0000-0000-000000000000",
+    "WorkOrder": ""
+  },
+  "Product": {
+    "ProductId": "db2e05fb-17fd-493e-abdb-a531b25ee918",
+    "ProductName": "KWS SERAFINO",
+    "BrandName": "---",
+    "TankMix": false,
+    "ProductUseHash": "888f21b2"
+  },
+  "FieldOperationStartDate": "2024-10-07T12:33:46.876Z",
+  "FileCreatedTimeStamp": "2025-08-19T12:35:34.5768792Z",
+  "DataAttributes": [
+    {
+      "Name": "Time",
+      "Description": "Timestamp"
+    },
+    {
+      "Name": "Crop",
+      "Description": "CropId"
+    },
+    {
+      "Name": "AppliedRate",
+      "Unit": "kg1ha-1",
+      "Description": "Applied Rate"
+    },
+    {
+      "Name": "SWATHWIDTH",
+      "Unit": "m",
+      "Description": "Width Of Element"
+    },
+    {
+      "Name": "DISTANCE",
+      "Unit": "m",
+      "Description": "Distance Travelled From Previous Point"
+    },
+    {
+      "Name": "Heading",
+      "Description": "Machine Heading"
+    },
+    {
+      "Name": "SECTIONID",
+      "Description": "Element Id"
+    },
+    {
+      "Name": "ControlRate",
+      "Unit": "kg1ha-1",
+      "Description": "Control Rate"
+    },
+    {
+      "Name": "TargetRate",
+      "Unit": "kg1ha-1",
+      "Description": "Target Rate"
+    },
+    {
+      "Name": "Variety",
+      "Description": "Variety Name"
+    },
+    {
+      "Name": "Elevation",
+      "Unit": "m",
+      "Description": "Elevation"
+    },
+    {
+      "Name": "IsoTime",
+      "Description": "Precise Timestamp"
+    },
+    {
+      "Name": "Machine",
+      "Description": "Index into the MachineUsage map, or 0 if no information exists"
+    },
+    {
+      "Name": "FUEL",
+      "Unit": "l",
+      "Description": "Fuel"
+    },
+    {
+      "Name": "VEHICLSPEED",
+      "Unit": "km1hr-1",
+      "Description": "Vehicle Speed"
+    },
+    {
+      "Name": "PRODUCTHASH",
+      "Description": "ProductUseHash"
+    }
+  ],
+  "MachineUsage": {
+    "1": {
+      "MachineId": "8307db12-3df5-ba0e-2052-1791acb44eb6",
+      "MachineSerial": "1L06250RTRR432799",
+      "OperatorId": "d72b6d46-d322-477f-9c05-fa4e0814a9f3",
+      "OperatorName": "Frank Schlaefer"
+    }
+  },
+  "Implements": [
+    {
+      "ImplementId": "a2736ae0-2ff7-a2d9-e100-5b149e0a91f2",
+      "ImplementSerialNumber": "CYA0002523",
+      "ImplementWidth": {
+        "Value": 3.0,
+        "Unit": "m"
+      }
+    }
+  ],
+  "Products": [
+    {
+      "ProductId": "db2e05fb-17fd-493e-abdb-a531b25ee918",
+      "ProductName": "KWS SERAFINO",
+      "BrandName": "---",
+      "TankMix": false,
+      "ProductUseHash": "888f21b2"
+    }
+  ]
+}

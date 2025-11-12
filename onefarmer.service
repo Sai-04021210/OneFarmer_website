@@ -1,0 +1,16 @@
+[Unit]
+Description=Ram Home Labs Website
+After=network.target
+
+[Service]
+Type=simple
+User=ram
+WorkingDirectory=/home/ram/Documents/OneFarmer
+Environment=NODE_ENV=production
+Environment=PORT=3002
+ExecStart=/usr/bin/npm start
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

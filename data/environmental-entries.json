@@ -1,0 +1,1696 @@
+[
+  {
+    "timestamp": "2025-10-04T10:10:39.060Z",
+    "temperature": 24,
+    "humidity": 69,
+    "light": 29952,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:10:39.060Z",
+    "temperature": 24,
+    "humidity": 69,
+    "light": 29952,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:10:41.613Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30022,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:10:52.729Z",
+    "temperature": 25.5,
+    "humidity": 64,
+    "light": 30022,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:11:02.996Z",
+    "temperature": 25.6,
+    "humidity": 62,
+    "light": 30022,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:11:12.613Z",
+    "temperature": 25.6,
+    "humidity": 62,
+    "light": 29973,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:11:22.903Z",
+    "temperature": 25.5,
+    "humidity": 61,
+    "light": 29973,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:11:42.661Z",
+    "temperature": 25.5,
+    "humidity": 61,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:12:17.186Z",
+    "temperature": 25.5,
+    "humidity": 63,
+    "light": 30042,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:12:44.494Z",
+    "temperature": 25.3,
+    "humidity": 65,
+    "light": 30042,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:13:25.805Z",
+    "temperature": 25.3,
+    "humidity": 65,
+    "light": 30091,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:14:53.712Z",
+    "temperature": 25.3,
+    "humidity": 65,
+    "light": 30098,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:16:22.962Z",
+    "temperature": 25.3,
+    "humidity": 65,
+    "light": 30056,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:17:18.325Z",
+    "temperature": 24.8,
+    "humidity": 67,
+    "light": 30017,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T10:17:18.325Z",
+    "temperature": 24.8,
+    "humidity": 67,
+    "light": 30017,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:29:41.623Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 29991,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:29:51.673Z",
+    "temperature": 22.8,
+    "humidity": 65,
+    "light": 29991,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:30:01.697Z",
+    "temperature": 22.9,
+    "humidity": 66,
+    "light": 29991,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:30:30.778Z",
+    "temperature": 22.9,
+    "humidity": 66,
+    "light": 30034,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:30:41.014Z",
+    "temperature": 22.3,
+    "humidity": 67,
+    "light": 30034,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-04T12:30:41.014Z",
+    "temperature": 22.3,
+    "humidity": 67,
+    "light": 30034,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:17:28.488Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 255,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:17:38.758Z",
+    "temperature": 23.3,
+    "humidity": 52,
+    "light": 255,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:17:48.578Z",
+    "temperature": 23.1,
+    "humidity": 64,
+    "light": 255,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:17:58.696Z",
+    "temperature": 23.1,
+    "humidity": 64,
+    "light": 254,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:08.714Z",
+    "temperature": 23.4,
+    "humidity": 55,
+    "light": 254,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:18.759Z",
+    "temperature": 23.2,
+    "humidity": 54,
+    "light": 254,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:28.478Z",
+    "temperature": 23.2,
+    "humidity": 54,
+    "light": 252,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:38.745Z",
+    "temperature": 23.4,
+    "humidity": 48,
+    "light": 252,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:58.480Z",
+    "temperature": 23.4,
+    "humidity": 48,
+    "light": 257,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-05T19:18:58.480Z",
+    "temperature": 23.4,
+    "humidity": 48,
+    "light": 257,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:35:19.006Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30000,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:35:29.103Z",
+    "temperature": 22.2,
+    "humidity": 62,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:35:49.182Z",
+    "temperature": 22.2,
+    "humidity": 62,
+    "light": 29987,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:35:59.456Z",
+    "temperature": 22.1,
+    "humidity": 70,
+    "light": 29987,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:36:09.179Z",
+    "temperature": 22.5,
+    "humidity": 64,
+    "light": 29987,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:36:19.250Z",
+    "temperature": 22.5,
+    "humidity": 64,
+    "light": 29966,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:36:49.345Z",
+    "temperature": 22.2,
+    "humidity": 63,
+    "light": 30006,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:36:59.561Z",
+    "temperature": 22,
+    "humidity": 69,
+    "light": 30006,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:09.482Z",
+    "temperature": 22.1,
+    "humidity": 63,
+    "light": 30006,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:19.003Z",
+    "temperature": 22.1,
+    "humidity": 63,
+    "light": 29956,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:29.606Z",
+    "temperature": 22.1,
+    "humidity": 63,
+    "light": 29956,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:39.345Z",
+    "temperature": 22,
+    "humidity": 63,
+    "light": 29956,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:49.238Z",
+    "temperature": 22,
+    "humidity": 63,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:37:59.324Z",
+    "temperature": 22,
+    "humidity": 65,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:38:09.329Z",
+    "temperature": 22,
+    "humidity": 67,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:38:19.216Z",
+    "temperature": 22,
+    "humidity": 67,
+    "light": 29940,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:38:47.355Z",
+    "temperature": 22,
+    "humidity": 68,
+    "light": 29940,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:39:47.306Z",
+    "temperature": 22,
+    "humidity": 68,
+    "light": 29923,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:40:47.322Z",
+    "temperature": 22,
+    "humidity": 64,
+    "light": 29965,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:41:47.268Z",
+    "temperature": 22,
+    "humidity": 67,
+    "light": 29923,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-06T10:41:47.268Z",
+    "temperature": 22,
+    "humidity": 67,
+    "light": 29923,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:54:08.843Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:54:08.843Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:54:14.448Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30043,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:54:44.427Z",
+    "temperature": 21.1,
+    "humidity": 69,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:54:54.796Z",
+    "temperature": 21.2,
+    "humidity": 71,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:55:14.543Z",
+    "temperature": 21.2,
+    "humidity": 71,
+    "light": 30033,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:55:24.584Z",
+    "temperature": 22.1,
+    "humidity": 71,
+    "light": 30033,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:55:34.690Z",
+    "temperature": 21.2,
+    "humidity": 69,
+    "light": 30033,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:55:44.473Z",
+    "temperature": 21.2,
+    "humidity": 69,
+    "light": 29983,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:55:54.933Z",
+    "temperature": 21.2,
+    "humidity": 69,
+    "light": 29983,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:56:14.471Z",
+    "temperature": 21.2,
+    "humidity": 69,
+    "light": 29953,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:56:25.045Z",
+    "temperature": 21.3,
+    "humidity": 70,
+    "light": 29953,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:56:37.127Z",
+    "temperature": 20,
+    "humidity": 70,
+    "light": 29953,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:56:45.498Z",
+    "temperature": 20,
+    "humidity": 70,
+    "light": 29905,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:56:55.754Z",
+    "temperature": 21.3,
+    "humidity": 69,
+    "light": 29905,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:57:15.509Z",
+    "temperature": 21.3,
+    "humidity": 69,
+    "light": 29895,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:57:26.804Z",
+    "temperature": 21.3,
+    "humidity": 69,
+    "light": 29895,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:58:05.501Z",
+    "temperature": 21.3,
+    "humidity": 69,
+    "light": 29931,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:58:14.520Z",
+    "temperature": 21.2,
+    "humidity": 91,
+    "light": 29946,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:58:25.751Z",
+    "temperature": 21.3,
+    "humidity": 69,
+    "light": 29946,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:58:35.896Z",
+    "temperature": 21.3,
+    "humidity": 71,
+    "light": 29946,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:58:46.498Z",
+    "temperature": 21.3,
+    "humidity": 71,
+    "light": 29992,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T13:59:15.338Z",
+    "temperature": 21.3,
+    "humidity": 70,
+    "light": 29967,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T14:00:14.675Z",
+    "temperature": 21.3,
+    "humidity": 70,
+    "light": 29938,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T14:01:14.581Z",
+    "temperature": 21.3,
+    "humidity": 70,
+    "light": 29908,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T14:02:14.629Z",
+    "temperature": 22,
+    "humidity": 69,
+    "light": 29895,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T14:02:14.629Z",
+    "temperature": 22,
+    "humidity": 69,
+    "light": 29895,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T18:41:55.953Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 256,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-10-07T18:41:55.953Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 256,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:03.146Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30045,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:13.297Z",
+    "temperature": 27.1,
+    "humidity": 45,
+    "light": 30045,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:23.233Z",
+    "temperature": 26.7,
+    "humidity": 45,
+    "light": 30045,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:33.149Z",
+    "temperature": 26.7,
+    "humidity": 45,
+    "light": 30088,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:43.219Z",
+    "temperature": 26.8,
+    "humidity": 44,
+    "light": 30088,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:40:53.231Z",
+    "temperature": 26.9,
+    "humidity": 44,
+    "light": 30088,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:03.151Z",
+    "temperature": 26.9,
+    "humidity": 44,
+    "light": 30054,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:13.247Z",
+    "temperature": 26.9,
+    "humidity": 46,
+    "light": 30054,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:23.259Z",
+    "temperature": 27,
+    "humidity": 46,
+    "light": 30054,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:33.155Z",
+    "temperature": 27,
+    "humidity": 46,
+    "light": 30039,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:43.223Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 30039,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:41:53.241Z",
+    "temperature": 26.4,
+    "humidity": 46,
+    "light": 30039,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:42:03.158Z",
+    "temperature": 26.4,
+    "humidity": 46,
+    "light": 30058,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:42:13.282Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 30058,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:42:33.154Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:42:43.288Z",
+    "temperature": 26.9,
+    "humidity": 44,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:43:03.160Z",
+    "temperature": 26.9,
+    "humidity": 44,
+    "light": 29975,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:43:33.159Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 29930,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:43:43.280Z",
+    "temperature": 26.7,
+    "humidity": 45,
+    "light": 29930,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:43:53.286Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 29930,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:44:03.155Z",
+    "temperature": 27,
+    "humidity": 45,
+    "light": 29905,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:44:33.299Z",
+    "temperature": 27.1,
+    "humidity": 45,
+    "light": 29912,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:45:00.725Z",
+    "temperature": 27.2,
+    "humidity": 44,
+    "light": 29912,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:45:06.299Z",
+    "temperature": 27.2,
+    "humidity": 44,
+    "light": 29875,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:45:44.426Z",
+    "temperature": 27.2,
+    "humidity": 44,
+    "light": 29911,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:46:11.849Z",
+    "temperature": 27.1,
+    "humidity": 44,
+    "light": 29911,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:46:17.928Z",
+    "temperature": 27.1,
+    "humidity": 44,
+    "light": 29922,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:46:31.830Z",
+    "temperature": 27.3,
+    "humidity": 43,
+    "light": 29922,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:46:42.439Z",
+    "temperature": 27.8,
+    "humidity": 42,
+    "light": 29922,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:47:11.733Z",
+    "temperature": 27.6,
+    "humidity": 43,
+    "light": 29955,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:47:17.885Z",
+    "temperature": 27.6,
+    "humidity": 43,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:47:31.719Z",
+    "temperature": 27.7,
+    "humidity": 43,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:47:41.711Z",
+    "temperature": 27.7,
+    "humidity": 44,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:47:47.886Z",
+    "temperature": 27.7,
+    "humidity": 44,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:01.720Z",
+    "temperature": 27.7,
+    "humidity": 44,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:11.709Z",
+    "temperature": 27.1,
+    "humidity": 43,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:17.888Z",
+    "temperature": 27.1,
+    "humidity": 43,
+    "light": 30028,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:31.814Z",
+    "temperature": 28,
+    "humidity": 44,
+    "light": 30028,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:41.709Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 30028,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:48:47.889Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:01.721Z",
+    "temperature": 27.8,
+    "humidity": 42,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:11.719Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:17.889Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 29990,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:31.720Z",
+    "temperature": 28.1,
+    "humidity": 44,
+    "light": 29990,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:41.710Z",
+    "temperature": 27.6,
+    "humidity": 43,
+    "light": 29990,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:49:47.889Z",
+    "temperature": 27.6,
+    "humidity": 43,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:50:01.723Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:50:11.734Z",
+    "temperature": 27.8,
+    "humidity": 42,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:50:17.892Z",
+    "temperature": 27.8,
+    "humidity": 42,
+    "light": 29954,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:50:41.926Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 29954,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:50:47.892Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 30000,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:51:01.786Z",
+    "temperature": 27.8,
+    "humidity": 42,
+    "light": 30000,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:51:11.789Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 30000,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:51:17.890Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 29957,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:51:41.735Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 29957,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:51:47.895Z",
+    "temperature": 27.7,
+    "humidity": 42,
+    "light": 29955,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:01.731Z",
+    "temperature": 27.7,
+    "humidity": 43,
+    "light": 29955,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:12.169Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 29955,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:17.898Z",
+    "temperature": 27.8,
+    "humidity": 43,
+    "light": 29985,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:23.131Z",
+    "temperature": 28.4,
+    "humidity": 43,
+    "light": 29985,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:42.277Z",
+    "temperature": 28,
+    "humidity": 43,
+    "light": 29985,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:52:47.898Z",
+    "temperature": 28,
+    "humidity": 43,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:53:11.746Z",
+    "temperature": 28,
+    "humidity": 42,
+    "light": 30025,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:53:17.899Z",
+    "temperature": 28,
+    "humidity": 42,
+    "light": 29988,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:53:31.736Z",
+    "temperature": 27.9,
+    "humidity": 42,
+    "light": 29988,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:53:41.754Z",
+    "temperature": 28,
+    "humidity": 43,
+    "light": 29988,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:53:47.901Z",
+    "temperature": 28,
+    "humidity": 43,
+    "light": 30009,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:54:03.429Z",
+    "temperature": 27.2,
+    "humidity": 42,
+    "light": 30009,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:54:33.769Z",
+    "temperature": 28.2,
+    "humidity": 42,
+    "light": 29977,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:54:50.217Z",
+    "temperature": 28.2,
+    "humidity": 42,
+    "light": 29992,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:54:55.955Z",
+    "temperature": 28.2,
+    "humidity": 43,
+    "light": 29992,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:55:29.456Z",
+    "temperature": 28.2,
+    "humidity": 43,
+    "light": 29988,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:55:44.393Z",
+    "temperature": 28.3,
+    "humidity": 43,
+    "light": 29988,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:56:51.437Z",
+    "temperature": 28.3,
+    "humidity": 43,
+    "light": 30014,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:57:19.484Z",
+    "temperature": 28.5,
+    "humidity": 44,
+    "light": 30014,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:58:39.336Z",
+    "temperature": 28.5,
+    "humidity": 44,
+    "light": 30019,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T14:59:59.309Z",
+    "temperature": 28.7,
+    "humidity": 41,
+    "light": 29987,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:00:26.766Z",
+    "temperature": 28.7,
+    "humidity": 40,
+    "light": 29987,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:00:48.021Z",
+    "temperature": 28.8,
+    "humidity": 40,
+    "light": 29962,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:00:59.402Z",
+    "temperature": 28.8,
+    "humidity": 40,
+    "light": 29989,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:01:24.583Z",
+    "temperature": 28.7,
+    "humidity": 40,
+    "light": 29989,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:01:41.701Z",
+    "temperature": 28.7,
+    "humidity": 40,
+    "light": 29964,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:03:16.736Z",
+    "temperature": 28.7,
+    "humidity": 40,
+    "light": 29940,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:03:59.375Z",
+    "temperature": 28.5,
+    "humidity": 41,
+    "light": 29918,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:05:19.345Z",
+    "temperature": 28.4,
+    "humidity": 41,
+    "light": 29949,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:06:39.477Z",
+    "temperature": 28.2,
+    "humidity": 41,
+    "light": 29941,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T15:07:59.471Z",
+    "temperature": 28.4,
+    "humidity": 42,
+    "light": 29909,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:13:30.898Z",
+    "temperature": 28.5,
+    "humidity": 47,
+    "light": 29900,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:13:41.093Z",
+    "temperature": 27.2,
+    "humidity": 45,
+    "light": 29900,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:13:57.220Z",
+    "temperature": 27.3,
+    "humidity": 45,
+    "light": 29900,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:14:20.614Z",
+    "temperature": 27.4,
+    "humidity": 45,
+    "light": 29888,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:14:37.968Z",
+    "temperature": 27.4,
+    "humidity": 45,
+    "light": 29925,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:15:13.114Z",
+    "temperature": 27.6,
+    "humidity": 45,
+    "light": 29885,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:15:38.677Z",
+    "temperature": 28,
+    "humidity": 44,
+    "light": 29885,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:15:50.108Z",
+    "temperature": 28,
+    "humidity": 44,
+    "light": 29927,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:16:00.352Z",
+    "temperature": 28.1,
+    "humidity": 44,
+    "light": 29927,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:16:20.247Z",
+    "temperature": 28.1,
+    "humidity": 44,
+    "light": 29922,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:16:50.090Z",
+    "temperature": 28.3,
+    "humidity": 42,
+    "light": 29922,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:17:04.667Z",
+    "temperature": 28.3,
+    "humidity": 42,
+    "light": 29897,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:17:24.530Z",
+    "temperature": 28.5,
+    "humidity": 41,
+    "light": 29897,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:17:38.920Z",
+    "temperature": 28.5,
+    "humidity": 41,
+    "light": 29892,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:33:44.111Z",
+    "temperature": 28.5,
+    "humidity": 41,
+    "light": 29897,
+    "notes": "Auto-entry (5-min interval)"
+  },
+  {
+    "timestamp": "2025-11-02T16:33:44.195Z",
+    "temperature": 28.5,
+    "humidity": 41,
+    "light": 29896,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-02T16:33:54.321Z",
+    "temperature": 29.6,
+    "humidity": 40,
+    "light": 29896,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:01:33.105Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:01:37.492Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 241,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:01:43.183Z",
+    "temperature": 29.2,
+    "humidity": 36,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:01:43.215Z",
+    "temperature": 29.2,
+    "humidity": 36,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:01:53.766Z",
+    "temperature": 28.9,
+    "humidity": 35,
+    "light": 29979,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:02:07.275Z",
+    "temperature": 28.9,
+    "humidity": 35,
+    "light": 30003,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:02:17.453Z",
+    "temperature": 28.4,
+    "humidity": 37,
+    "light": 30003,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-03T09:02:37.313Z",
+    "temperature": 28.4,
+    "humidity": 37,
+    "light": 29969,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-04T09:17:55.268Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30031,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-04T09:17:55.268Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30031,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-04T15:09:39.915Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30038,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-04T15:09:39.915Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30038,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-05T10:02:35.683Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30016,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-05T10:03:05.669Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30064,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-05T10:03:05.669Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30064,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:29:19.316Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30031,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:29:29.356Z",
+    "temperature": 27.9,
+    "humidity": 37,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:29:29.366Z",
+    "temperature": 27.9,
+    "humidity": 37,
+    "light": 30031,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:29:39.368Z",
+    "temperature": 28,
+    "humidity": 38,
+    "light": 30031,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:29:49.308Z",
+    "temperature": 28,
+    "humidity": 38,
+    "light": 29990,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:30:19.312Z",
+    "temperature": 27.9,
+    "humidity": 37,
+    "light": 29989,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:30:49.311Z",
+    "temperature": 27.9,
+    "humidity": 37,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-10T16:30:49.311Z",
+    "temperature": 27.9,
+    "humidity": 37,
+    "light": 29994,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:37:34.268Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 246,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:37:37.251Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30005,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:37:44.391Z",
+    "temperature": 20.8,
+    "humidity": 48,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:38:04.528Z",
+    "temperature": 20.8,
+    "humidity": 48,
+    "light": 251,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:38:29.444Z",
+    "temperature": 20.9,
+    "humidity": 48,
+    "light": 251,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:38:43.950Z",
+    "temperature": 20.9,
+    "humidity": 48,
+    "light": 259,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:49:10.698Z",
+    "temperature": 20.9,
+    "humidity": 48,
+    "light": 259,
+    "notes": "Auto-entry (5-min interval)"
+  },
+  {
+    "timestamp": "2025-11-11T20:49:10.897Z",
+    "temperature": 20.9,
+    "humidity": 48,
+    "light": 269,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T20:49:10.897Z",
+    "temperature": 20.9,
+    "humidity": 48,
+    "light": 269,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:17:59.676Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 260,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:18:09.859Z",
+    "temperature": 20.6,
+    "humidity": 48,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:18:09.921Z",
+    "temperature": 20.6,
+    "humidity": 48,
+    "light": 260,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:18:30.792Z",
+    "temperature": 20.6,
+    "humidity": 48,
+    "light": 257,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:18:40.906Z",
+    "temperature": 20.5,
+    "humidity": 48,
+    "light": 257,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:18:52.674Z",
+    "temperature": 20.6,
+    "humidity": 49,
+    "light": 257,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:19:05.494Z",
+    "temperature": 20.6,
+    "humidity": 49,
+    "light": 265,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:19:17.190Z",
+    "temperature": 20.6,
+    "humidity": 49,
+    "light": 265,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:19:53.848Z",
+    "temperature": 20.6,
+    "humidity": 49,
+    "light": 260,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:20:12.301Z",
+    "temperature": 20.5,
+    "humidity": 49,
+    "light": 267,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:20:22.626Z",
+    "temperature": 20.4,
+    "humidity": 48,
+    "light": 267,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:20:37.150Z",
+    "temperature": 20.4,
+    "humidity": 49,
+    "light": 267,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-11T21:20:37.150Z",
+    "temperature": 20.4,
+    "humidity": 49,
+    "light": 267,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T15:05:28.674Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 29958,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T15:05:38.776Z",
+    "temperature": 28.1,
+    "humidity": 35,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T15:05:38.776Z",
+    "temperature": 28.1,
+    "humidity": 35,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T15:46:50.895Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30014,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T15:46:50.895Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 30014,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:53:10.239Z",
+    "temperature": null,
+    "humidity": null,
+    "light": 256,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:53:20.325Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": null,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:53:40.234Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": 258,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:54:10.247Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": 251,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:54:40.252Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": 261,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:55:10.247Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": 266,
+    "notes": "Auto-recorded from MQTT"
+  },
+  {
+    "timestamp": "2025-11-12T19:55:40.236Z",
+    "temperature": 24.5,
+    "humidity": 41,
+    "light": 256,
+    "notes": "Auto-recorded from MQTT"
+  }
+]

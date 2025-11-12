@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-09-30T01:46:00.000Z",
+    "ph": 6.7,
+    "ec": 1.4,
+    "waterTemp": 22,
+    "waterQuality": null,
+    "notes": "Manual entry"
+  }
+]
