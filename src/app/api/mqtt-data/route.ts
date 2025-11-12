@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { SensorData, HistoricalEntry } from '@/types/sensor';
+import { logger } from '@/lib/logger';
 
 // In-memory storage for the latest sensor data
 const latestData: SensorData = {
@@ -39,20 +40,26 @@ const connectToMQTT = async (): Promise<void> => {
   isConnecting = true;
 
   try {
-    console.log('Connecting to MQTT broker...');
+    logger.info('Connecting to MQTT broker...');
 
     // Dynamic import for server-side
     const mqtt = await import('mqtt');
 
-    mqttClient = mqtt.default.connect('mqtt://192.168.0.8:1883', {
+    const brokerUrl = process.env.NEXT_PUBLIC_MQTT_BROKER_URL || 'mqtt://192.168.0.8:1883';
+    const username = process.env.NEXT_PUBLIC_MQTT_USERNAME;
+    const password = process.env.NEXT_PUBLIC_MQTT_PASSWORD;
+
+    mqttClient = mqtt.default.connect(brokerUrl, {
       clientId: `onefarmer_api_${Math.random().toString(16).slice(3)}`,
       keepalive: 30,
       reconnectPeriod: 5000,
       connectTimeout: 10000,
+      username,
+      password,
     });
 
     mqttClient.on('connect', () => {
-      console.log('Connected to MQTT broker');
+      logger.info('Connected to MQTT broker');
       latestData.status = 'connected';
       latestData.error = undefined;
       lastMessageTime = Date.now();
@@ -74,7 +81,7 @@ const connectToMQTT = async (): Promise<void> => {
           'hydroponic/sensors/rose/water_temp'
         ], (err: Error | null) => {
           if (err) {
-            console.error('Subscription error:', err);
+            logger.error('Subscription error:', err);
             latestData.status = 'error';
             latestData.error = 'Failed to subscribe to topics';
           }
@@ -88,7 +95,7 @@ const connectToMQTT = async (): Promise<void> => {
         const now = new Date().toISOString();
         lastMessageTime = Date.now();
 
-        console.log(`Received ${topic}: ${value}`);
+        logger.info(`Received ${topic}: ${value}`);
 
         // Update connection status to connected since we're receiving data
         if (latestData.status !== 'connected') {
@@ -141,18 +148,18 @@ const connectToMQTT = async (): Promise<void> => {
           global.historicalDataMQTT.shift();
         }
       } catch (error) {
-        console.error('Error parsing message:', error);
+        logger.error('Error parsing message:', error);
       }
     });
 
     mqttClient.on('error', (error: Error) => {
-      console.error('MQTT error:', error);
+      logger.error('MQTT error:', error);
       latestData.status = 'error';
       latestData.error = error.message || 'Connection failed';
     });
 
     mqttClient.on('close', () => {
-      console.log('MQTT connection closed');
+      logger.warn('MQTT connection closed');
       latestData.status = 'error';
       latestData.error = 'Connection closed';
       if (connectionCheckInterval) {
@@ -162,19 +169,19 @@ const connectToMQTT = async (): Promise<void> => {
     });
 
     mqttClient.on('disconnect', () => {
-      console.log('MQTT client disconnected');
+      logger.warn('MQTT client disconnected');
       latestData.status = 'error';
       latestData.error = 'Disconnected from broker';
     });
 
     mqttClient.on('offline', () => {
-      console.log('MQTT client is offline');
+      logger.warn('MQTT client is offline');
       latestData.status = 'error';
       latestData.error = 'Client is offline';
     });
 
   } catch (error) {
-    console.error('Failed to connect to MQTT:', error);
+    logger.error('Failed to connect to MQTT:', error);
     latestData.status = 'error';
     latestData.error = 'Failed to connect to broker';
   } finally {
@@ -189,14 +196,14 @@ const checkConnectionHealth = (): void => {
 
   // If no message received in 2 minutes, consider connection unhealthy
   if (timeSinceLastMessage > 120000) {
-    console.log('No MQTT messages received in 2 minutes, marking as disconnected');
+    logger.warn('No MQTT messages received in 2 minutes, marking as disconnected');
     latestData.status = 'error';
     latestData.error = 'No data received - connection may be lost';
   }
 
   // If MQTT client exists but shows as disconnected
   if (mqttClient && !mqttClient.connected) {
-    console.log('MQTT client shows as disconnected');
+    logger.warn('MQTT client shows as disconnected');
     latestData.status = 'error';
     latestData.error = 'MQTT client disconnected';
   }
