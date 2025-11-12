@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
+import Provider from "@/components/SessionProvider";
+import MainLayout from "@/components/MainLayout";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -34,11 +34,9 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body className={`${inter.className} antialiased bg-gray-50 text-gray-900`}>
-        <Header />
-        <main className="min-h-screen">
-          {children}
-        </main>
-        <Footer />
+        <Provider>
+          <MainLayout>{children}</MainLayout>
+        </Provider>
       </body>
     </html>
   );

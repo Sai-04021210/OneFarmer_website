@@ -1,7 +1,20 @@
 import Link from 'next/link';
 import { ArrowRight, Github, Linkedin, Mail, MapPin } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import DOMPurify from 'dompurify';
 
 const HeroSection = () => {
+  const [content, setContent] = useState({ location: '', title: '', subtitle: '' });
+
+  useEffect(() => {
+    const fetchContent = async () => {
+      const res = await fetch('/api/content');
+      const data = await res.json();
+      setContent(data.hero);
+    };
+    fetchContent();
+  }, []);
+
   return (
     <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20 lg:py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -11,18 +24,10 @@ const HeroSection = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-2 text-blue-600">
                 <MapPin className="w-4 h-4" />
-                <span className="text-sm font-medium">Saarbrücken, Germany</span>
+                <span className="text-sm font-medium">{content.location}</span>
               </div>
-              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Industrial IoT &{' '}
-                <span className="text-blue-600">Digital Twin</span>{' '}
-                Solutions
-              </h1>
-              <p className="text-xl text-gray-600 leading-relaxed">
-                I&apos;m <strong>Sai Ram Makkapati</strong>, an Industrial IoT Engineer with 3+ years
-                of experience delivering end-to-end digital-twin solutions—from edge-device 
-                data capture to Dockerized AAS servers in production.
-              </p>
+              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(content.title) }}></h1>
+              <p className="text-xl text-gray-600 leading-relaxed" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(content.subtitle) }}></p>
             </div>
 
             {/* Key Skills */}
