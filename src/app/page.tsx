@@ -59,6 +59,7 @@ import EnhancedVideoUpload from '@/components/EnhancedVideoUpload';
 import EnhancedDocumentUpload from '@/components/EnhancedDocumentUpload';
 import EnhancedLinkUpload from '@/components/EnhancedLinkUpload';
 import PDFExportModal from '@/components/PDFExportModal';
+import FileList from '@/components/FileList';
 
 export default function OneFarmerPage() {
   // Client-side mounted state to prevent hydration errors
@@ -2321,6 +2322,13 @@ export default function OneFarmerPage() {
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* File List Section */}
+      <section className="py-16 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <FileList />
         </div>
       </section>
 

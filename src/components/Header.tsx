@@ -2,9 +2,11 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import { Menu, X, BookOpen, Mail, Sprout, ChevronDown, Leaf, FlowerIcon, Carrot } from 'lucide-react';
+import { useSession, signIn, signOut } from 'next-auth/react';
+import { Menu, X, BookOpen, Mail, Sprout, ChevronDown, Leaf, FlowerIcon, Carrot, LogIn, LogOut } from 'lucide-react';
 
 const Header = () => {
+  const { data: session } = useSession();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isCategoriesOpen, setIsCategoriesOpen] = useState(false);
 
@@ -74,6 +76,14 @@ const Header = () => {
 
               {isCategoriesOpen && (
                 <div className="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-xl border border-gray-200 py-2 z-50">
+                  {session?.user?.role === 'admin' && (
+                    <Link
+                      href="/admin"
+                      className="flex items-center space-x-2 px-4 py-2 text-gray-700 hover:bg-blue-50 hover:text-blue-600 transition-colors duration-200"
+                    >
+                      <span>Admin</span>
+                    </Link>
+                  )}
                   {categories.map((category) => {
                     const Icon = category.icon;
                     return (
@@ -91,6 +101,32 @@ const Header = () => {
               )}
             </div>
           </nav>
+
+          {/* Auth buttons */}
+          <div className="hidden md:flex items-center space-x-4">
+            {session ? (
+              <>
+                <div className="text-sm text-gray-600">
+                  <span className="font-semibold">{session.user?.name}</span> ({session.user?.role})
+                </div>
+                <button
+                  onClick={() => signOut()}
+                  className="flex items-center space-x-1 text-gray-600 hover:text-red-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
+                >
+                  <LogOut className="w-4 h-4" />
+                  <span>Logout</span>
+                </button>
+              </>
+            ) : (
+              <button
+                onClick={() => signIn()}
+                className="flex items-center space-x-1 text-gray-600 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200"
+              >
+                <LogIn className="w-4 h-4" />
+                <span>Login</span>
+              </button>
+            )}
+          </div>
 
           {/* Mobile menu button */}
           <div className="md:hidden">
@@ -131,6 +167,15 @@ const Header = () => {
                 <div className="px-3 py-2 text-xs font-semibold text-gray-500 uppercase tracking-wide">
                   Categories
                 </div>
+                {session?.user?.role === 'admin' && (
+                  <Link
+                    href="/admin"
+                    className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200"
+                    onClick={() => setIsMenuOpen(false)}
+                  >
+                    <span>Admin</span>
+                  </Link>
+                )}
                 {categories.map((category) => {
                   const Icon = category.icon;
                   return (
@@ -145,6 +190,27 @@ const Header = () => {
                     </Link>
                   );
                 })}
+              </div>
+
+              {/* Mobile Auth buttons */}
+              <div className="border-t border-gray-200 pt-2 mt-2">
+                {session ? (
+                  <button
+                    onClick={() => signOut()}
+                    className="flex items-center space-x-2 text-gray-600 hover:text-red-600 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200 w-full text-left"
+                  >
+                    <LogOut className="w-4 h-4" />
+                    <span>Logout</span>
+                  </button>
+                ) : (
+                  <button
+                    onClick={() => signIn()}
+                    className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 hover:bg-gray-50 block px-3 py-2 rounded-md text-base font-medium transition-colors duration-200 w-full text-left"
+                  >
+                    <LogIn className="w-4 h-4" />
+                    <span>Login</span>
+                  </button>
+                )}
               </div>
             </div>
           </div>
